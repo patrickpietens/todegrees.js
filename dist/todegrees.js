@@ -1,0 +1,1 @@
+!function(e,t){"function"==typeof define&&define.amd?define([],t):"object"==typeof exports?module.exports=t():e.Todegrees=t()}(this,function(){"use strict";Object.defineProperty(exports,"__esModule",{value:!0});var e=exports.toDegrees=function(e){return 180*e/Math.PI};return e});
