@@ -1,4 +1,4 @@
-# toradians.js
+# todegrees.js
 Simple function which converts radians to degrees
 
 ## Example
